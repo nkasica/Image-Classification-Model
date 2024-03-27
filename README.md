@@ -13,3 +13,6 @@ Firstly, I began by downloading images to form a dataset. My entire dataset cons
 * OpenCV version 4.9.0 - `pip install opencv-pthon`
 * Matplotlib version 3.8.3 - `pip install matplotlib`
 Note: If you want to be able to run this program on your computer's GPU, use `pip install tensorflow[and cuda]` instead
+
+### Usage
+You can load my trained model by downloading `catsanddogsmodel.keras` from the "model" folder and import it using keras.models.load_model. Alternatively, you can download the code and play around with the model's parameters to see different outcomes!
