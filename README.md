@@ -12,4 +12,5 @@ Firstly, I began by downloading images to form a dataset. My entire dataset cons
 * TensorFlow version 2.16.1 - `pip install tensorflow`
 * OpenCV version 4.9.0 - `pip install opencv-pthon`
 * Matplotlib version 3.8.3 - `pip install matplotlib`
-Note: If you want to be able to run this program on your computer's GPU, use `pip install tensorflow[and cuda]` instead
+Note: If you want to be able to run this program on your computer's GPU,
+use `pip install tensorflow[and cuda]` instead
