@@ -15,4 +15,4 @@ Firstly, I began by downloading images to form a dataset. My entire dataset cons
 Note: If you want to be able to run this program on your computer's GPU, use `pip install tensorflow[and cuda]` instead
 
 ### Usage
-You can load my trained model by downloading `catsanddogs.keras` from the "model" folder and import it using keras.models.load_model. Alternatively, you can download the code and play around with the model's parameters to create new ones!
+You can load my trained model by downloading `catsanddogs.keras` from the "model" directory and import it using keras.models.load_model. Alternatively, you can download the code and play around with the model's parameters and datset to create new ones. You can easily train this model on any different binary dataset by replacing the directories in the "data" directory with you own images!
