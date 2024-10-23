@@ -8,7 +8,7 @@ Firstly, I began by downloading images to form a dataset. My entire dataset cons
 
 ## Getting Started
 
-### Dependancies
+### Dependencies
 * TensorFlow version 2.16.1 - `pip install tensorflow`
 * OpenCV version 4.9.0 - `pip install opencv-pthon`
 * Matplotlib version 3.8.3 - `pip install matplotlib`
